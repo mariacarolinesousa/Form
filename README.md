@@ -4,7 +4,7 @@ criação de um formulário para exercitar meus conhecimentos em programação
 * HTML
 * CSS
 <picture>
-<img src="https://imgur.com/a/c3HM9uR" alt="Meu Primeiro Formulário">
+<img src="/img/imgfor_readme.png" alt="Meu Primeiro Formulário">
 </picture>
 
   
